@@ -1,1 +1,13 @@
-
+.parent{
+    height : 200px;
+   background-color: greenyellow;
+    padding : 40px;
+}
+.child{
+    position : relative;
+    background-color: orangered;
+    width:80%;
+    bottom : 140px;
+    left:30px;
+    padding : 10px;
+}
